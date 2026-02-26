@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Drift",
+  "description": "Track how far you've traveled through space due to Earth's rotation based on your current latitude.",
+  "requestFramePermissions": ["geolocation"]
+}
